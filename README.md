@@ -1,4 +1,4 @@
 # Apna-College-demo
 git class repo
 <br>
-Author - Pratik Gaikwad 
+Author - Pratik Gaikwad (Apna college)
